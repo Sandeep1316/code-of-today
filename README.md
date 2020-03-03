@@ -2,5 +2,5 @@
 
 
 hiii!!!!!
-i'm a student at present.
-i love to work on machine learning projects and researches
+this project will provide basic level security door locking system
+Only knocking the door in a certain pattern unlocks and opens the door.
